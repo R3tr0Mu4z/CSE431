@@ -1,6 +1,6 @@
 # CSE431 Submission 2 (Team 23)
 
-Please download the demo.mp4 for the demonstration video in Highest quality.
+Please download the 431_task_2_presentation.mp4 for the demonstration video in Highest quality.
 
 ## Youtube link
 
