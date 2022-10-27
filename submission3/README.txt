@@ -1,0 +1,30 @@
+Link to unlisted youtube video:
+https://www.youtube.com/watch?v=mmbnyE0pNL4&feature=youtu.be
+
+Two public link to the Concept Map (anyone on the internet can view without login):
+PDF (Please view the JPG as the PDF export is not placing everything in one page): 
+https://github.com/R3tr0Mu4z/CSE431/new/main/submission3/Concept%20Map.pdf
+JPG:
+https://github.com/R3tr0Mu4z/CSE431/new/main/submission3/Concept%20Map.jpg
+Native/original format: 
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=markov.drawio#R7Zpbc5s4FMc%2FjWe2D8mIq%2BExcZpNZ5rZdtLZ3T4KEEY1Rl4h3%2FrpewBxxwntYuN6%2FGKjowvS%2Bf%2FOEWiYaLPl7k%2BOV8Ez80g4UZG3m2gPE1VVdEuBv8SylxZF0zPLnFNP2krDC%2F1OpBFJ65p6JK41FIyFgq7qRpdFEXFFzYY5Z9t6M5%2BF9buu8Jy0DC8uDtvWf6gngsxqGai0PxE6D%2FI7K0jWLHHeWBriAHtsWzFp7yfajDMmsqvlbkbCxHu5X7J%2Bjwdqi4lxEok%2BHb59Xv2lcvYZP%2Fr6IlwQ5HyIb%2BQoGxyu5YInqhnCePc%2Bg2Fh1mIvXWH%2Bt2Z5xU2cCnUHDRRzBWrfl%2FVwNZf%2F6UBObnjGfME20GUWYBrl1TBhp9kFbNntc7Nam4kKCwP9oXC%2FDaggLyvsJjVbYBBsgViGUFLgEserDAqf7oiXTJ6G4YyFjKcDab7lEtcFeyw4W5BKjWMZOoic33xDuCC7g55XCj0hEghbEsH30ER20DQj6yKDQMuR2JZEKZq0BVWaciOWFM%2BLsUuh4UJq%2FRO6qwd1L8SYseVqLSD2YKmcOdihIRX7NIY4%2FDInJnyDHdBERWQDroi7JW1ox9k68hItUoHe0K8pl%2B%2Br3XJ5pmMa5jByqTaqyaV2yFXYqnKZx1JLP2GUPlHPIxCdKA9XWc%2BLMM6SfNN8FvFMFM8g0y5AbHOq4YEA0bQ6ILrdEc96VzzrxyLEOE48Ixx5yRpyJi4qzg21LqOhjR3n0x4qBphjVxBOv2NBWSKKg2OSqJQWEmlDsuypUcCWzjruoQ9Er3w2U8y2Xh4mlt%2Bpl%2BlaxPEHystWXS9z2qFXV9ip6FiCWS3BPtIFCWnAmNdOkVkEStmGS4Gva%2BP7xDwQS1PbQQM94hSZTWpjdWhz4pRot7R5IC7zaDS%2FNOc39yNbGd35%2BQyqkUEwj1LvN%2BPij6fnZ2j7hcNrATR4d2n6NDcayxxfn%2FaL35cg2fkfGd9inmwnd%2BGccSqC5QnlOMnrWEMNeGMfXw7tgBx%2Fg3%2B5Qy9Zjmb2UpA1vh7tN65meNxjd3HpkWKaZxgqXa86TbdH3l1y9gclN8RxTN26t8t3E9TharKj4t%2Bk7taQpa%2ByZXL9sKsW9nkhgrVVOiXFr%2FJuaaHslpbyftnUidc6hGxIBMtja%2B6S1xyTtROYz4l4pZ3aLXlFUaND0NzGSQgPsJv6dLtElnf4xGh6QiGJ0htEGUqDk2yZslf1NLMxUNFx3xg4HyjzQ2uglLli2f8DQ3McDJVfwhCdH4b6FcMhMOw6MjgKhko1FxZIvoVhDcKSyeNjqPfE0LhiOASG7YOQazb8GQyn54ThVB0Iw%2BKE7lQYts98rhhWDpbfxNA%2BJwztoTC0ToxhPu8TYPhLm%2FKtbupVEG%2FQLVLNN2hMS58Ip%2BAdwsdD1LoiOgSiXR9%2BnNFz49lnSgVNrhwOwKE6RqrsvV9bqJYoIU%2Fa2sh50uoL6IGjvXEAVdBQhNqnJrR9NH8sQn%2BvZ0q7L4jaFcRBQOz6CuzoW3ZfDMc6bUR9KTyr88ZzpBCK5cfIWfPym27t%2FQ8%3D
+
+Name, Author, Edition, year and publisher of the Book:
+Speech and Language Processing
+Jurafsky, Martin
+(3rd ed. draft)
+2021
+
+Link to the book:
+https://web.stanford.edu/~jurafsky/slp3/
+
+Link to the book chapter:
+https://web.stanford.edu/~jurafsky/slp3/A.pdf
+
+Group Number:
+23
+
+Group Members:
+17201014 Syed Muaz Ali
+18101407 Afif Ibna Kadir Khan Turja
+17101527 Sabiha Tahseen
