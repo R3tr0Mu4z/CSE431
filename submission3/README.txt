@@ -11,9 +11,10 @@ https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&n
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
-Jurafsky, Martin
+Jurafsky
 (3rd ed. draft)
 2021
+Pearson
 
 Link to the book:
 https://web.stanford.edu/~jurafsky/slp3/
